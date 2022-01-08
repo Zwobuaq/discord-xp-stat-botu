@@ -1,3 +1,6 @@
+# silindi
+tekrar yapacağım kısa süre içerisinde bayağı süre olduğu için format esnasında kayıp oldu.
+
 # discord-xp-stat-botu
 Discorda kullanılan xp yetkili stat botu 
 
