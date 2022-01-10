@@ -1,5 +1,7 @@
 # silindi
 tekrar yapacağım kısa süre içerisinde bayağı süre olduğu için format esnasında kayıp oldu.
+(BİTTİ SAYILIR 2 - 3 GÜN İÇİNDE GÖRÜŞÜRÜZ)
+![asd](https://user-images.githubusercontent.com/68235392/148837958-d1d65224-ce6e-4599-8eb1-a4ae942fdfe3.png)
 
 # discord-xp-stat-botu
 Discorda kullanılan xp yetkili stat botu 
